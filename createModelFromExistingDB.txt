@@ -1,0 +1,2 @@
+Scaffold-DbContext "Data Source = .\SQLEXPRESS; Initial Catalog = Trade; Integrated Security = true; TrustServerCertificate = true" Microsoft.EntityFrameworkCore.SqlServer
+Строку в консоль диспетчера пакетов (если использовать EF)

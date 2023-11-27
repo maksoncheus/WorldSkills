@@ -1,0 +1,11 @@
+C:\Users\maksoncheus\source\repos\SF2022UserLyubaLib\bin\Debug\net6.0\SF2022UserLyubaLib.deps.json
+C:\Users\maksoncheus\source\repos\SF2022UserLyubaLib\bin\Debug\net6.0\SF2022UserLyubaLib.dll
+C:\Users\maksoncheus\source\repos\SF2022UserLyubaLib\bin\Debug\net6.0\SF2022UserLyubaLib.pdb
+C:\Users\maksoncheus\source\repos\SF2022UserLyubaLib\obj\Debug\net6.0\SF2022UserLyubaLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksoncheus\source\repos\SF2022UserLyubaLib\obj\Debug\net6.0\SF2022UserLyubaLib.AssemblyInfoInputs.cache
+C:\Users\maksoncheus\source\repos\SF2022UserLyubaLib\obj\Debug\net6.0\SF2022UserLyubaLib.AssemblyInfo.cs
+C:\Users\maksoncheus\source\repos\SF2022UserLyubaLib\obj\Debug\net6.0\SF2022UserLyubaLib.csproj.CoreCompileInputs.cache
+C:\Users\maksoncheus\source\repos\SF2022UserLyubaLib\obj\Debug\net6.0\SF2022UserLyubaLib.dll
+C:\Users\maksoncheus\source\repos\SF2022UserLyubaLib\obj\Debug\net6.0\refint\SF2022UserLyubaLib.dll
+C:\Users\maksoncheus\source\repos\SF2022UserLyubaLib\obj\Debug\net6.0\SF2022UserLyubaLib.pdb
+C:\Users\maksoncheus\source\repos\SF2022UserLyubaLib\obj\Debug\net6.0\ref\SF2022UserLyubaLib.dll
